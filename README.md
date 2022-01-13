@@ -1,2 +1,2 @@
-# New-Emg-Website
+# Emglifestyle.com
 First webpage using github
