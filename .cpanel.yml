@@ -3,4 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/by7wawrfdw5s/public_html/
     - /bin/cp -R /home/by7wawrfdw5s/repositories/jaychang99hub.io.git/asset $DEPLOYPATH
-    - /bin/cp -R /home/by7wawrfdw5s/repositories/jaychang99hub.io.git/html files $DEPLOYPATH
+    - /bin/cp -R /home/by7wawrfdw5s/repositories/jaychang99hub.io.git/html_files $DEPLOYPATH
